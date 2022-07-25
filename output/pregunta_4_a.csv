@@ -1,0 +1,385 @@
+"","Año","Entidad","Sexo","POBTOT"
+"1",2015,"Aguascalientes","Hombre",648008
+"2",2015,"Aguascalientes","Mujer",670565
+"3",2015,"Baja California","Hombre",1675322
+"4",2015,"Baja California","Mujer",1666956
+"5",2015,"Baja California Sur","Hombre",362552
+"6",2015,"Baja California Sur","Mujer",348797
+"7",2015,"Campeche","Hombre",449284
+"8",2015,"Campeche","Mujer",459443
+"9",2015,"Chiapas","Hombre",2581456
+"10",2015,"Chiapas","Mujer",2683225
+"11",2015,"Chihuahua","Hombre",1790056
+"12",2015,"Chihuahua","Mujer",1813786
+"13",2015,"Ciudad de México","Hombre",4333821
+"14",2015,"Ciudad de México","Mujer",4728015
+"15",2015,"Coahuila","Hombre",1487125
+"16",2015,"Coahuila","Mujer",1493512
+"17",2015,"Colima","Hombre",355145
+"18",2015,"Colima","Mujer",360090
+"19",2015,"Durango","Hombre",873733
+"20",2015,"Durango","Mujer",896297
+"21",2015,"Guanajuato","Hombre",2868116
+"22",2015,"Guanajuato","Mujer",3026749
+"23",2015,"Guerrero","Hombre",1727413
+"24",2015,"Guerrero","Mujer",1837168
+"25",2015,"Hidalgo","Hombre",1391577
+"26",2015,"Hidalgo","Mujer",1487996
+"27",2015,"Jalisco","Hombre",3900939
+"28",2015,"Jalisco","Mujer",4017012
+"29",2015,"México","Hombre",7985687
+"30",2015,"México","Mujer",8366172
+"31",2015,"Michoacán","Hombre",2243959
+"32",2015,"Michoacán","Mujer",2379649
+"33",2015,"Morelos","Hombre",929086
+"34",2015,"Morelos","Mujer",988948
+"35",2015,"Nayarit","Hombre",592424
+"36",2015,"Nayarit","Mujer",593480
+"37",2015,"Nuevo León","Hombre",2578665
+"38",2015,"Nuevo León","Mujer",2578858
+"39",2015,"Oaxaca","Hombre",1922836
+"40",2015,"Oaxaca","Mujer",2082324
+"41",2015,"Puebla","Hombre",3002343
+"42",2015,"Puebla","Mujer",3234902
+"43",2015,"Querétaro","Hombre",1006161
+"44",2015,"Querétaro","Mujer",1040570
+"45",2015,"Quintana Roo","Hombre",759778
+"46",2015,"Quintana Roo","Mujer",745353
+"47",2015,"San Luis Potosí","Hombre",1341223
+"48",2015,"San Luis Potosí","Mujer",1405094
+"49",2015,"Sinaloa","Hombre",1490667
+"50",2015,"Sinaloa","Mujer",1505743
+"51",2015,"Sonora","Hombre",1429274
+"52",2015,"Sonora","Mujer",1437282
+"53",2015,"Tabasco","Hombre",1188232
+"54",2015,"Tabasco","Mujer",1221886
+"55",2015,"Tamaulipas","Hombre",1723754
+"56",2015,"Tamaulipas","Mujer",1754920
+"57",2015,"Tlaxcala","Hombre",625431
+"58",2015,"Tlaxcala","Mujer",659076
+"59",2015,"Veracruz","Hombre",3982151
+"60",2015,"Veracruz","Mujer",4214827
+"61",2015,"Yucatán","Hombre",1044164
+"62",2015,"Yucatán","Mujer",1070826
+"63",2015,"Zacatecas","Hombre",782828
+"64",2015,"Zacatecas","Mujer",810562
+"65",2016,"Aguascalientes","Hombre",662066
+"66",2016,"Aguascalientes","Mujer",682895
+"67",2016,"Baja California","Hombre",1687315
+"68",2016,"Baja California","Mujer",1685893
+"69",2016,"Baja California Sur","Hombre",370743
+"70",2016,"Baja California Sur","Mujer",357498
+"71",2016,"Campeche","Hombre",456746
+"72",2016,"Campeche","Mujer",468079
+"73",2016,"Chiapas","Hombre",2621959
+"74",2016,"Chiapas","Mujer",2728863
+"75",2016,"Chihuahua","Hombre",1801507
+"76",2016,"Chihuahua","Mujer",1827517
+"77",2016,"Ciudad de México","Hombre",4329021
+"78",2016,"Ciudad de México","Mujer",4726502
+"79",2016,"Coahuila","Hombre",1507909
+"80",2016,"Coahuila","Mujer",1512462
+"81",2016,"Colima","Hombre",361410
+"82",2016,"Colima","Mujer",366654
+"83",2016,"Durango","Hombre",885322
+"84",2016,"Durango","Mujer",907693
+"85",2016,"Guanajuato","Hombre",2908883
+"86",2016,"Guanajuato","Mujer",3057383
+"87",2016,"Guerrero","Hombre",1737484
+"88",2016,"Guerrero","Mujer",1851009
+"89",2016,"Hidalgo","Hombre",1410644
+"90",2016,"Hidalgo","Mujer",1508672
+"91",2016,"Jalisco","Hombre",3949231
+"92",2016,"Jalisco","Mujer",4059326
+"93",2016,"México","Hombre",8083534
+"94",2016,"México","Mujer",8471759
+"95",2016,"Michoacán","Hombre",2266140
+"96",2016,"Michoacán","Mujer",2399615
+"97",2016,"Morelos","Hombre",941292
+"98",2016,"Morelos","Mujer",1001572
+"99",2016,"Nayarit","Hombre",601965
+"100",2016,"Nayarit","Mujer",602985
+"101",2016,"Nuevo León","Hombre",2626831
+"102",2016,"Nuevo León","Mujer",2626401
+"103",2016,"Oaxaca","Hombre",1936573
+"104",2016,"Oaxaca","Mujer",2096604
+"105",2016,"Puebla","Hombre",3039259
+"106",2016,"Puebla","Mujer",3272355
+"107",2016,"Querétaro","Hombre",1030837
+"108",2016,"Querétaro","Mujer",1061438
+"109",2016,"Quintana Roo","Hombre",778222
+"110",2016,"Quintana Roo","Mujer",766278
+"111",2016,"San Luis Potosí","Hombre",1352761
+"112",2016,"San Luis Potosí","Mujer",1417312
+"113",2016,"Sinaloa","Hombre",1509191
+"114",2016,"Sinaloa","Mujer",1525882
+"115",2016,"Sonora","Hombre",1443833
+"116",2016,"Sonora","Mujer",1459019
+"117",2016,"Tabasco","Hombre",1204162
+"118",2016,"Tabasco","Mujer",1238158
+"119",2016,"Tamaulipas","Hombre",1739531
+"120",2016,"Tamaulipas","Mujer",1771124
+"121",2016,"Tlaxcala","Hombre",636286
+"122",2016,"Tlaxcala","Mujer",669484
+"123",2016,"Veracruz","Hombre",4027316
+"124",2016,"Veracruz","Mujer",4258097
+"125",2016,"Yucatán","Hombre",1057671
+"126",2016,"Yucatán","Mujer",1084846
+"127",2016,"Zacatecas","Hombre",792080
+"128",2016,"Zacatecas","Mujer",817825
+"129",2017,"Aguascalientes","Hombre",672369
+"130",2017,"Aguascalientes","Mujer",693211
+"131",2017,"Baja California","Hombre",1716984
+"132",2017,"Baja California","Mujer",1716365
+"133",2017,"Baja California Sur","Hombre",379485
+"134",2017,"Baja California Sur","Mujer",366168
+"135",2017,"Campeche","Hombre",465318
+"136",2017,"Campeche","Mujer",476638
+"137",2017,"Chiapas","Hombre",2663335
+"138",2017,"Chiapas","Mujer",2773611
+"139",2017,"Chihuahua","Hombre",1821202
+"140",2017,"Chihuahua","Mujer",1848501
+"141",2017,"Ciudad de México","Hombre",4326935
+"142",2017,"Ciudad de México","Mujer",4725408
+"143",2017,"Coahuila","Hombre",1530244
+"144",2017,"Coahuila","Mujer",1535402
+"145",2017,"Colima","Hombre",368183
+"146",2017,"Colima","Mujer",372968
+"147",2017,"Durango","Hombre",893944
+"148",2017,"Durango","Mujer",916863
+"149",2017,"Guanajuato","Hombre",2939794
+"150",2017,"Guanajuato","Mujer",3088820
+"151",2017,"Guerrero","Hombre",1746072
+"152",2017,"Guerrero","Mujer",1859950
+"153",2017,"Hidalgo","Hombre",1429502
+"154",2017,"Hidalgo","Mujer",1528594
+"155",2017,"Jalisco","Hombre",3996046
+"156",2017,"Jalisco","Mujer",4107195
+"157",2017,"México","Hombre",8185812
+"158",2017,"México","Mujer",8575798
+"159",2017,"Michoacán","Hombre",2285464
+"160",2017,"Michoacán","Mujer",2418344
+"161",2017,"Morelos","Hombre",953140
+"162",2017,"Morelos","Mujer",1013336
+"163",2017,"Nayarit","Hombre",611749
+"164",2017,"Nayarit","Mujer",612466
+"165",2017,"Nuevo León","Hombre",2667592
+"166",2017,"Nuevo León","Mujer",2667474
+"167",2017,"Oaxaca","Hombre",1949304
+"168",2017,"Oaxaca","Mujer",2110403
+"169",2017,"Puebla","Hombre",3073003
+"170",2017,"Puebla","Mujer",3307170
+"171",2017,"Querétaro","Hombre",1052270
+"172",2017,"Querétaro","Mujer",1082822
+"173",2017,"Quintana Roo","Hombre",799085
+"174",2017,"Quintana Roo","Mujer",786139
+"175",2017,"San Luis Potosí","Hombre",1363790
+"176",2017,"San Luis Potosí","Mujer",1428935
+"177",2017,"Sinaloa","Hombre",1523178
+"178",2017,"Sinaloa","Mujer",1540415
+"179",2017,"Sonora","Hombre",1463436
+"180",2017,"Sonora","Mujer",1478926
+"181",2017,"Tabasco","Hombre",1218640
+"182",2017,"Tabasco","Mujer",1253675
+"183",2017,"Tamaulipas","Hombre",1755138
+"184",2017,"Tamaulipas","Mujer",1788305
+"185",2017,"Tlaxcala","Hombre",644748
+"186",2017,"Tlaxcala","Mujer",678205
+"187",2017,"Veracruz","Hombre",4056607
+"188",2017,"Veracruz","Mujer",4291065
+"189",2017,"Yucatán","Hombre",1070193
+"190",2017,"Yucatán","Mujer",1098941
+"191",2017,"Zacatecas","Hombre",798510
+"192",2017,"Zacatecas","Mujer",824817
+"193",2018,"Aguascalientes","Hombre",682473
+"194",2018,"Aguascalientes","Mujer",703404
+"195",2018,"Baja California","Hombre",1745935
+"196",2018,"Baja California","Mujer",1746359
+"197",2018,"Baja California Sur","Hombre",388060
+"198",2018,"Baja California Sur","Mujer",374710
+"199",2018,"Campeche","Hombre",473756
+"200",2018,"Campeche","Mujer",485096
+"201",2018,"Chiapas","Hombre",2703912
+"202",2018,"Chiapas","Mujer",2817735
+"203",2018,"Chihuahua","Hombre",1840095
+"204",2018,"Chihuahua","Mujer",1868901
+"205",2018,"Ciudad de México","Hombre",4322958
+"206",2018,"Ciudad de México","Mujer",4722761
+"207",2018,"Coahuila","Hombre",1552029
+"208",2018,"Coahuila","Mujer",1557915
+"209",2018,"Colima","Hombre",374794
+"210",2018,"Colima","Mujer",379164
+"211",2018,"Durango","Hombre",902254
+"212",2018,"Durango","Mujer",925818
+"213",2018,"Guanajuato","Hombre",2969156
+"214",2018,"Guanajuato","Mujer",3119267
+"215",2018,"Guerrero","Hombre",1753955
+"216",2018,"Guerrero","Mujer",1868400
+"217",2018,"Hidalgo","Hombre",1447696
+"218",2018,"Hidalgo","Mujer",1548067
+"219",2018,"Jalisco","Hombre",4041164
+"220",2018,"Jalisco","Mujer",4153820
+"221",2018,"México","Hombre",8284094
+"222",2018,"México","Mujer",8676349
+"223",2018,"Michoacán","Hombre",2303531
+"224",2018,"Michoacán","Mujer",2436262
+"225",2018,"Morelos","Hombre",964532
+"226",2018,"Morelos","Mujer",1024770
+"227",2018,"Nayarit","Hombre",621301
+"228",2018,"Nayarit","Mujer",621804
+"229",2018,"Nuevo León","Hombre",2707467
+"230",2018,"Nuevo León","Mujer",2707851
+"231",2018,"Oaxaca","Hombre",1961190
+"232",2018,"Oaxaca","Mujer",2123643
+"233",2018,"Puebla","Hombre",3105441
+"234",2018,"Puebla","Mujer",3341069
+"235",2018,"Querétaro","Hombre",1073246
+"236",2018,"Querétaro","Mujer",1103885
+"237",2018,"Quintana Roo","Hombre",819624
+"238",2018,"Quintana Roo","Mujer",805775
+"239",2018,"San Luis Potosí","Hombre",1374330
+"240",2018,"San Luis Potosí","Mujer",1440223
+"241",2018,"Sinaloa","Hombre",1536635
+"242",2018,"Sinaloa","Mujer",1554531
+"243",2018,"Sonora","Hombre",1482595
+"244",2018,"Sonora","Mujer",1498549
+"245",2018,"Tabasco","Hombre",1232642
+"246",2018,"Tabasco","Mujer",1268803
+"247",2018,"Tamaulipas","Hombre",1770050
+"248",2018,"Tamaulipas","Mujer",1804936
+"249",2018,"Tlaxcala","Hombre",652950
+"250",2018,"Tlaxcala","Mujer",686739
+"251",2018,"Veracruz","Hombre",4083838
+"252",2018,"Veracruz","Mujer",4322326
+"253",2018,"Yucatán","Hombre",1082457
+"254",2018,"Yucatán","Mujer",1112815
+"255",2018,"Zacatecas","Hombre",804572
+"256",2018,"Zacatecas","Mujer",831565
+"257",2019,"Aguascalientes","Hombre",692276
+"258",2019,"Aguascalientes","Mujer",713349
+"259",2019,"Baja California","Hombre",1774238
+"260",2019,"Baja California","Mujer",1775841
+"261",2019,"Baja California Sur","Hombre",396545
+"262",2019,"Baja California Sur","Mujer",383181
+"263",2019,"Campeche","Hombre",482163
+"264",2019,"Campeche","Mujer",493522
+"265",2019,"Chiapas","Hombre",2744260
+"266",2019,"Chiapas","Mujer",2861705
+"267",2019,"Chihuahua","Hombre",1858230
+"268",2019,"Chihuahua","Mujer",1888635
+"269",2019,"Ciudad de México","Hombre",4317838
+"270",2019,"Ciudad de México","Mujer",4719120
+"271",2019,"Coahuila","Hombre",1573671
+"272",2019,"Coahuila","Mujer",1580313
+"273",2019,"Colima","Hombre",381311
+"274",2019,"Colima","Mujer",385284
+"275",2019,"Durango","Hombre",910249
+"276",2019,"Durango","Mujer",934488
+"277",2019,"Guanajuato","Hombre",2997259
+"278",2019,"Guanajuato","Mujer",3148613
+"279",2019,"Guerrero","Hombre",1760969
+"280",2019,"Guerrero","Mujer",1876024
+"281",2019,"Hidalgo","Hombre",1465471
+"282",2019,"Hidalgo","Mujer",1567179
+"283",2019,"Jalisco","Hombre",4084253
+"284",2019,"Jalisco","Mujer",4198639
+"285",2019,"México","Hombre",8378968
+"286",2019,"México","Mujer",8773809
+"287",2019,"Michoacán","Hombre",2321175
+"288",2019,"Michoacán","Mujer",2453877
+"289",2019,"Morelos","Hombre",975664
+"290",2019,"Morelos","Mujer",1035984
+"291",2019,"Nayarit","Hombre",630593
+"292",2019,"Nayarit","Mujer",630932
+"293",2019,"Nuevo León","Hombre",2746641
+"294",2019,"Nuevo León","Mujer",2747642
+"295",2019,"Oaxaca","Hombre",1972615
+"296",2019,"Oaxaca","Mujer",2136454
+"297",2019,"Puebla","Hombre",3136907
+"298",2019,"Puebla","Mujer",3374108
+"299",2019,"Querétaro","Hombre",1093917
+"300",2019,"Querétaro","Mujer",1124721
+"301",2019,"Quintana Roo","Hombre",839841
+"302",2019,"Quintana Roo","Mujer",825132
+"303",2019,"San Luis Potosí","Hombre",1384476
+"304",2019,"San Luis Potosí","Mujer",1451175
+"305",2019,"Sinaloa","Hombre",1549658
+"306",2019,"Sinaloa","Mujer",1568277
+"307",2019,"Sonora","Hombre",1501269
+"308",2019,"Sonora","Mujer",1517737
+"309",2019,"Tabasco","Hombre",1246492
+"310",2019,"Tabasco","Mujer",1283806
+"311",2019,"Tamaulipas","Hombre",1784628
+"312",2019,"Tamaulipas","Mujer",1821257
+"313",2019,"Tlaxcala","Hombre",660970
+"314",2019,"Tlaxcala","Mujer",695108
+"315",2019,"Veracruz","Hombre",4109729
+"316",2019,"Veracruz","Mujer",4352334
+"317",2019,"Yucatán","Hombre",1094579
+"318",2019,"Yucatán","Mujer",1126526
+"319",2019,"Zacatecas","Hombre",810411
+"320",2019,"Zacatecas","Mujer",838130
+"321",2020,"Aguascalientes","Hombre",701925
+"322",2020,"Aguascalientes","Mujer",723180
+"323",2020,"Baja California","Hombre",1802025
+"324",2020,"Baja California","Mujer",1804915
+"325",2020,"Baja California Sur","Hombre",404877
+"326",2020,"Baja California Sur","Mujer",391521
+"327",2020,"Campeche","Hombre",490456
+"328",2020,"Campeche","Mujer",501850
+"329",2020,"Chiapas","Hombre",2783931
+"330",2020,"Chiapas","Mujer",2905067
+"331",2020,"Chihuahua","Hombre",1875800
+"332",2020,"Chihuahua","Mujer",1907880
+"333",2020,"Ciudad de México","Hombre",4311206
+"334",2020,"Ciudad de México","Mujer",4714157
+"335",2020,"Coahuila","Hombre",1594862
+"336",2020,"Coahuila","Mujer",1602326
+"337",2020,"Colima","Hombre",387695
+"338",2020,"Colima","Mujer",391294
+"339",2020,"Durango","Hombre",918058
+"340",2020,"Durango","Mujer",942993
+"341",2020,"Guanajuato","Hombre",3024331
+"342",2020,"Guanajuato","Mujer",3177118
+"343",2020,"Guerrero","Hombre",1767564
+"344",2020,"Guerrero","Mujer",1883286
+"345",2020,"Hidalgo","Hombre",1482796
+"346",2020,"Hidalgo","Mujer",1585900
+"347",2020,"Jalisco","Hombre",4126169
+"348",2020,"Jalisco","Mujer",4242433
+"349",2020,"México","Hombre",8470235
+"350",2020,"México","Mujer",8867985
+"351",2020,"Michoacán","Hombre",2338001
+"352",2020,"Michoacán","Mujer",2470790
+"353",2020,"Morelos","Hombre",986475
+"354",2020,"Morelos","Mujer",1046898
+"355",2020,"Nayarit","Hombre",639730
+"356",2020,"Nayarit","Mujer",639941
+"357",2020,"Nuevo León","Hombre",2785074
+"358",2020,"Nuevo León","Mujer",2786830
+"359",2020,"Oaxaca","Hombre",1983502
+"360",2020,"Oaxaca","Mujer",2148816
+"361",2020,"Puebla","Hombre",3167472
+"362",2020,"Puebla","Mujer",3406371
+"363",2020,"Querétaro","Hombre",1114210
+"364",2020,"Querétaro","Mujer",1145261
+"365",2020,"Quintana Roo","Hombre",859763
+"366",2020,"Quintana Roo","Mujer",844247
+"367",2020,"San Luis Potosí","Hombre",1394314
+"368",2020,"San Luis Potosí","Mujer",1461857
+"369",2020,"Sinaloa","Hombre",1562285
+"370",2020,"Sinaloa","Mujer",1581695
+"371",2020,"Sonora","Hombre",1519670
+"372",2020,"Sonora","Mujer",1536727
+"373",2020,"Tabasco","Hombre",1259917
+"374",2020,"Tabasco","Mujer",1298432
+"375",2020,"Tamaulipas","Hombre",1798707
+"376",2020,"Tamaulipas","Mujer",1837126
+"377",2020,"Tlaxcala","Hombre",668798
+"378",2020,"Tlaxcala","Mujer",703310
+"379",2020,"Veracruz","Hombre",4133943
+"380",2020,"Veracruz","Mujer",4380781
+"381",2020,"Yucatán","Hombre",1106489
+"382",2020,"Yucatán","Mujer",1140016
+"383",2020,"Zacatecas","Hombre",816039
+"384",2020,"Zacatecas","Mujer",844504
